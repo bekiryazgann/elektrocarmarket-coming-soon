@@ -2,7 +2,7 @@ import React from 'react';
 import {MapPin} from 'lucide-react';
 
 const ContactSection: React.FC = () => {
-    const whatsappNumber = "905330335858"; 
+    const whatsappNumber = "+905052765000";
     const googleMapsUrl = "https://maps.app.goo.gl/isSPPGx9ttgcAf1MA"; 
 
     return (
@@ -25,7 +25,7 @@ const ContactSection: React.FC = () => {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">WhatsApp İletişim</h3>
                     <p className="text-muted-foreground mb-4">Sorularınız için bize mesaj gönderin.</p>
-                    <span className="text-lg font-medium text-green-600">+90 533 033 58 58</span>
+                    <span className="text-lg font-medium text-green-600">+90 505 276 50 00</span>
                 </div>
             </a>
 
